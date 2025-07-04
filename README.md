@@ -2,6 +2,7 @@
 
 # Big Data Analysis with PySpark
 
+
 This project demonstrates a basic big data analysis pipeline using **Apache PySpark** to process a large synthetic dataset. It covers generating a scalable dataset, performing data loading, transformations, aggregations, and deriving insights, showcasing the power of distributed computing for large-scale data processing.
 
 ## Features
