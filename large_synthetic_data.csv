@@ -1,0 +1,11 @@
+TransactionID,Date,CustomerID,Region,ProductCategory,UnitsSold,PricePerUnit,PaymentMethod,ShippingCost,TotalAmount,Profit
+1,2020-01-01,75123,North,Electronics,3,150.25,Credit Card,5.00,455.75,136.72
+2,2020-01-02,89654,South,Clothing,5,35.50,Debit Card,2.50,180.00,54.00
+3,2020-01-03,12345,East,Home Goods,1,200.00,PayPal,10.00,210.00,63.00
+4,2020-01-04,98765,West,Books,2,25.00,Bank Transfer,1.00,51.00,15.30
+5,2020-01-05,23456,Central,Food,4,12.75,Credit Card,3.00,54.00,16.20
+6,2020-01-06,34567,North,Software,1,500.00,PayPal,0.00,500.00,150.00
+7,2020-01-07,45678,South,Services,1,75.00,Debit Card,0.00,75.00,22.50
+8,2020-01-08,56789,East,Electronics,2,300.00,Credit Card,7.50,607.50,182.25
+9,2020-01-09,67890,West,Clothing,3,45.00,Bank Transfer,4.00,139.00,41.70
+10,2020-01-10,78901,Central,Home Goods,1,120.00,PayPal,6.00,126.00,37.80
