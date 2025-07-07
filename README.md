@@ -62,3 +62,22 @@ Follow these steps to set up and run the project locally.
 
 ## Project Structure
 ```
+big-data-analysis-pyspark/
+├── README.md
+├── dependencies.txt           
+├── big_data_pipeline.py       
+├── large_synthetic_data.csv
+```
+## Dependencies
+
+All dependencies are listed in `dependencies.txt`.
+
+## Future Enhancements
+
+* **Real Dataset**: Integrate with real-world large datasets.
+* **Advanced Spark Operations**: Implement more complex transformations or Spark MLlib.
+* **Distributed Deployment**: Configure for cluster execution.
+* **Streaming Data**: Adapt for real-time streaming data.
+* **Data Visualization**: Connect Spark results to visualization tools.
+* **Performance Optimization**: Explore caching, partitioning, and broadcasting.
+
